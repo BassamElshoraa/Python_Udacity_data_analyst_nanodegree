@@ -1,0 +1,6 @@
+References and Links used to solve the proplems:
+
+
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.loc.html
+https://stackoverflow.com/questions/68736618/error-loading-preloads-could-not-find-renderer
+https://pandas.pydata.org/pandas-docs/version/1.2.0/reference/api/pandas.DataFrame.plot.html
